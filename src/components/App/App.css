@@ -1,0 +1,9 @@
+.todo-app {
+	max-width: 800px;
+	padding: 3rem;
+}
+
+.search {
+	display: flex;
+	margin-bottom: 1rem;
+}
